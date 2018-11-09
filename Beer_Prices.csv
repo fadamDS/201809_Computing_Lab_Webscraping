@@ -1,0 +1,503 @@
+,Name,Price,Price per Liter
+0,"Beck's Pils 6x0,33l",4.29,2.17
+1,"Nörten-Hardenberger Pils 30x0,33l",8.99,0.91
+2,"Beck's Pils 0,5l Dose",0.89,1.78
+3,"Rothaus Pils Tannenzäpfle 24x0,33l",16.49,2.08
+4,"Hasseröder Premium Pils 20x0,5l",8.99,0.9
+5,"Staropramen Premium Pils 20x0,5l",15.99,1.6
+6,"Bitburger Pils 20x0,33l",11.99,1.82
+7,"Beck's Pils 11x0,5l",10.99,2.0
+8,"Bitburger Pils 6x0,33l",4.29,2.17
+9,"Krombacher Pils 6x0,33l",4.29,2.17
+10,Beck's Pils Fass 5l,10.79,2.16
+11,"Beck's Pils 24x0,33l",10.99,1.39
+12,"Hasseröder Premium Pils 6x0,33l",3.79,1.91
+13,"Wernesgrüner Pils 20x0,5l",14.89,1.49
+14,"Krombacher Pils 20x0,5l",14.69,1.47
+15,"Krombacher Pils 24x0,33l",14.49,1.83
+16,"Beck's Pils Gold 20x0,5l",10.99,1.1
+17,"Freiberger Pils 20x0,5l",11.49,1.15
+18,"Bitburger Pils 0,5l",0.85,1.7
+19,"5,0 Original Pils 4x0,5l",1.95,0.98
+20,"Krombacher Pils 0,5l",0.79,1.58
+21,"Beck's Pils 20x0,5l",10.99,1.1
+22,"Lübzer Pils 20x0,5l",10.49,1.05
+23,"Bitburger Pils 20x0,5l",14.69,1.47
+24,"Krombacher Pils 20x0,33l",13.79,2.09
+25,"Original Oettinger Pils 20x0,5l",7.49,0.75
+26,"Bitburger Pils 24x0,33l",14.69,1.85
+27,"5,0 Original Pils 0,5l",0.49,0.98
+28,"Störtebeker Pils 20x0,5l",15.49,1.55
+29,"Wernesgrüner Pils 11x0,5l",9.29,1.69
+30,"Lübzer Pils 6x0,33l",4.29,2.17
+31,"Warsteiner 6x0,33l",3.79,1.91
+32,"Jever Pilsener 6x0,33l",3.89,1.96
+33,"Lübzer Pils 11x0,5l",8.49,1.54
+34,"Hasseröder Premium Pils 0,5l",0.75,1.5
+35,"Binding Römer Pils 20x0,5l",11.79,1.18
+36,"Rothaus Pils 20x0,5l",16.49,1.65
+37,"Licher Pils 20x0,5l",14.49,1.45
+38,"Lübzer Pils 0,5l",0.75,1.5
+39,"Allgäuer Büble Bier Edelbräu 20x0,5l",14.49,1.45
+40,"Binding Römer Pils 0,5l",0.69,1.38
+41,"Pepper Pils 0,33l",2.49,7.55
+42,"Krombacher Pils 11x0,5l",8.99,1.63
+43,"Ur-Krostitzer Pils 0,5l",0.69,1.38
+44,"Wernesgrüner Pils 0,5l",0.75,1.5
+45,"Eichbaum Ureich Premium Pils 0,5l",0.89,1.78
+46,"Rothaus Pils Tannenzäpfle 6x0,33l",5.29,2.67
+47,"Bitburger Pils 11x0,5l",9.29,1.69
+48,"Rothaus Pils Tannenzäpfle 10x0,33l",7.99,2.42
+49,"Hasseröder Premium Pils 11x0,5l",7.49,1.36
+50,"Flensburger Pilsener 6x0,33l",4.29,2.17
+51,"Original Oettinger Pils Steinie 20x0,33l",5.79,0.88
+52,"Original Oettinger Pils 24x0,33l",7.59,0.96
+53,"Radeberger Pilsner 6x0,33l",4.29,2.17
+54,"Radeberger Pilsner 20x0,5l",14.99,1.5
+55,"Jever Pilsener 0,5l",0.79,1.58
+56,"König Pilsener 0,5l",0.79,1.58
+57,"Nörten-Hardenberger Pils 20x0,5l",7.79,0.78
+58,"Berliner Pilsner 20x0,5l",11.8,1.18
+59,"Pilsner Urquell 6x0,33l",4.49,2.27
+60,"Berliner Kindl Jubiläums-Pilsener 0,5l",0.69,1.38
+61,"Astra Urtyp 27x0,33l",13.99,1.57
+62,Krombacher Pils Frische-Fäßchen 5l,12.49,2.5
+63,"Neumarkter Lammsbräu Edelpils 10x0,33l",8.99,2.72
+64,"Berliner Pilsner 0,5l",0.59,1.18
+65,"Ur-Krostitzer Pilsner 20x0,5l",12.49,1.25
+66,"Holsten Pilsener 20x0,5l",11.99,1.2
+67,"Bitburger Pils Open Basket 6x0,5l",4.65,1.55
+68,"Beck's Gold 6x0,33l",4.29,2.17
+69,"Hasseröder Premium Pils 24x0,33l",13.99,1.77
+70,"Jever Pilsener 20x0,5l",14.99,1.5
+71,"Pilsner Urquell 20x0,5l",13.99,1.4
+72,"Veltins Pilsener 24x0,33l",14.29,1.8
+73,"Tyskie Gronie 20x0,5l",15.49,1.55
+74,"Grevensteiner Original Steinie 16x0,5l",13.99,1.75
+75,"König Pilsener 24x0,33l",10.99,1.39
+76,"Veltins Pilsener 20x0,5l",14.49,1.45
+77,"Paderborner Pilsener 20x0,5l",6.99,0.7
+78,"Warsteiner 0,5l",0.79,1.58
+79,"Flensburger Pilsener 20x0,33l",12.99,1.97
+80,"König Pilsener 20x0,5l",10.99,1.1
+81,"Holsten Pilsener 0,5l",0.59,1.18
+82,"Mönchshof Original 20x0,5l",14.99,1.5
+83,"Nörten-Hardenberger Pils 6x0,33l",2.19,1.11
+84,"Astra Rotlicht 27x0,33l",11.99,1.35
+85,"Original Oettinger Hell 20x0,5l",7.79,0.78
+86,"Paderborner Pilsener 0,5l",0.49,0.98
+87,"Flensburger Gold 20x0,33l",12.99,1.97
+88,"Altenburger Premium 20x0,5l",13.89,1.39
+89,"Veltins Pilsener 6x0,33l",4.29,2.17
+90,"Wicküler Pilsener 20x0,5l",9.99,1.0
+91,"Beck's Gold 24x0,33l",10.99,1.39
+92,"Holsten Pilsener 24x0,33l",11.99,1.51
+93,"Ur-Krostitzer Pilsner 11x0,5l",6.79,1.23
+94,"Zlatopramen 6x1,5l",8.94,0.99
+95,"Radeberger Pilsner 11x0,5l",8.99,1.63
+96,"Astra Urtyp 0,5l",0.65,1.3
+97,"Veltins Pilsener Dose 0,5l",0.79,1.58
+98,"Astra Urtyp Herrenhandtasche 6x0,33l",3.99,2.02
+99,"Kulmbacher Edelherb 20x0,5l",13.99,1.4
+100,"Licher Pilsner 6x0,33l",3.99,2.02
+101,"Duckstein Original 8x0,5l",14.49,3.62
+102,"Warsteiner 24x0,33l",13.79,1.74
+103,"König Pilsener 6x0,33l",3.79,1.91
+104,"Astra Rotlicht 6x0,33l",3.99,2.02
+105,"Fürstenberg Premium Pilsener 20x0,5l",14.99,1.5
+106,"Duff Beer 0,5l",0.69,1.38
+107,"Heineken 28x0,25l",16.79,2.4
+108,"Radeberger Pilsner 0,5l",0.79,1.58
+109,"König Pilsener 11x0,5l",8.79,1.6
+110,"Feldschlößchen Pilsner 0,5l",0.59,1.18
+111,"Wicküler Pilsener 6x0,33l",2.79,1.41
+112,"Jever Pilsener 11x0,5l",8.49,1.54
+113,"Erdinger Urweiße 20x0,5l",16.99,1.7
+114,"Ur-Krostitzer Pilsner 0,5l",0.69,1.38
+115,"Jever Light 20x0,5l",14.99,1.5
+116,"Fürstenberg Premium Pilsener 0,5l",0.79,1.58
+117,"Tuborg Pilsener 6x0,33l",3.49,1.76
+118,"Schmucker Gude 6x0,33l",3.99,2.02
+119,"Staropramen Premium Pilsener 6x0,33l",4.29,2.17
+120,"Carlsberg Pilsener 0,33l",0.79,2.39
+121,"Eichbaum Pilsener 20x0,5l",12.99,1.3
+122,"Leikeim Premium 20x0,5l",14.99,1.5
+123,"Sternburg Pilsener 20x0,5l",7.89,0.79
+124,"Holsten Pilsener 11x0,5l",7.49,1.36
+125,"Veltins Pilsener 11x0,5l",8.49,1.54
+126,"Stuttgarter Hofbräu Pilsner 0,5l",0.79,1.58
+127,"Kulmbacher Edelherb 0,5l",0.75,1.5
+128,"Wicküler Pilsener 24x0,33l",9.49,1.2
+129,"Warsteiner Herb 6x0,33l",3.99,2.02
+130,"Tyskie Gronie 0,5l",0.95,1.9
+131,"Warsteiner 11x0,5l",7.79,1.42
+132,"Warsteiner Herb 20x0,5l",13.99,1.4
+133,"Stuttgarter Hofbräu Pilsner 20x0,5l",14.99,1.5
+134,"Erdinger Weißbier 11x0,5l",9.49,1.73
+135,"Weihenstephaner Hefe-Weißbier hell 20x0,5l",16.79,1.68
+136,"Paulaner Hefe-Weißbier naturtrüb 0,5l",0.99,1.98
+137,"Paulaner Hefe-Weißbier dunkel 20x0,5l",16.79,1.68
+138,"Allgäuer Büble Edel-Weißbier 20x0,5l",15.49,1.55
+139,"Paulaner Hefe-Weißbier naturtrüb 20x0,5l",16.99,1.7
+140,"Franziskaner Hefe-Weißbier Hell naturtrüb 20x0,5l",16.19,1.62
+141,"Radeberger Pilsner 24x0,33l",14.79,1.87
+142,"Franziskaner Hefe-Weißbier Hell 0,5l",0.99,1.98
+143,"Franziskaner Hefe-Weißbier Dunkel 20x0,5l",16.19,1.62
+144,"Erdinger Weissbier 6x0,33l",3.79,1.91
+145,"Kapuziner Weißbier 20x0,5l",12.99,1.3
+146,"Erdinger Weißbier 20x0,5l",16.99,1.7
+147,"Paulaner Weißbier kristallklar 20x0,5l",16.79,1.68
+148,"Franziskaner Hefe-Weißbier Leicht 20x0,5l",16.79,1.68
+149,"Franziskaner Hefe-Weißbier Hell naturtrüb 11x0,5l",9.99,1.82
+150,Paulaner Weißbier Fass 5l,11.99,2.4
+151,"König Ludwig Weißbier hell 0,5l",1.05,2.1
+152,"Köstritzer Schwarzbier 6x0,33l",3.99,2.02
+153,"Erdinger Weißbier Dunkel 20x0,5l",16.99,1.7
+154,"Original Oettinger Hefeweizen hell 20x0,5l",8.99,0.9
+155,"Störtebeker Bernstein-Weizen 20x0,5l",15.49,1.55
+156,"5,0 Original Weizen 0,5l",0.49,0.98
+157,"Guinness Irish Draught 0,44l",1.49,3.39
+158,"Franziskaner Hefeweizen Hell 6x0,33l",4.49,2.27
+159,"Rothaus Zäpfle Hefeweizen 20x0,5l",16.49,1.65
+160,"Köstritzer Schwarzbier 6x0,5l",4.99,1.66
+161,"Köstritzer Schwarzbier 20x0,5l",14.79,1.48
+162,"Schöfferhofer Hefeweizen 6x0,33l",3.79,1.91
+163,"Erdinger Weißbier Kristall 11x0,5l",9.29,1.69
+164,"Schneider Weisse Original Hefeweißbier 20x0,5l",16.99,1.7
+165,"Benediktiner Weissbier Naturtrüb 6x0,5l",5.99,2.0
+166,"Mönchshof Bayerisch hell 20x0,5l",14.99,1.5
+167,"Franziskaner Weißbier Kristallklar 20x0,5l",12.99,1.3
+168,"Maisel's Weisse Original 20x0,5l",16.99,1.7
+169,"Krombacher Weizen 6x0,33l",4.29,2.17
+170,"Schöfferhofer Hefeweizen 0,5l",0.79,1.58
+171,"Schöfferhofer Weizen 11x0,5l",8.49,1.54
+172,"Störtebeker Schwarzbier 20x0,5l",15.49,1.55
+173,"Krombacher Naturtrübes Dunkel 6x0,33l",4.29,2.17
+174,"Original Oettinger Dunkles Hefeweizen 20x0,5l",8.99,0.9
+175,"Original Oettinger Kristallweizen 20x0,5l",8.99,0.9
+176,"Rothaus Zäpfle Hefeweizen 6x0,33l",5.29,2.67
+177,"Köstritzer Schwarzbier 0,5l",0.89,1.78
+178,"Neumarkter Lammsbräu Öko Urstoff 10x0,5l",10.79,2.16
+179,"Wulle Vollbier Hell 6x0,5l",5.99,2.0
+180,"Wulle Vollbier Hell 20x0,33l",13.99,2.12
+181,"Original Oettinger Alt 20x0,5l",7.49,0.75
+182,"Diebels Alt 6x0,33l",4.29,2.17
+183,"Diebels Alt 0,5l",0.85,1.7
+184,"Heineken 6x0,33l",4.99,2.52
+185,"Corona Extra 6x0,35l",6.99,3.33
+186,"Paulaner Münchner hell 20x0,5l",15.99,1.6
+187,"Augustiner Hell 20x0,5l",17.49,1.75
+188,"Bayreuther Brauhaus hell 20x0,5l",15.99,1.6
+189,"Diebels Alt 20x0,5l",14.49,1.45
+190,"Budweiser Budvar Imported Lager 0,5l",1.15,2.3
+191,"Benediktiner Hell 0,5l",0.99,1.98
+192,"Brooklyn Lager 0,33l",1.99,6.03
+193,"Berliner Kindl Weisse Das Original 6x0,33l",4.49,2.27
+194,"Budweiser Budvar Premium Lager 20x0,5l",16.99,1.7
+195,"Budweiser Budvar Premium Lager 6x0,33l",4.69,2.37
+196,"San Miguel 6x0,33l",4.99,2.52
+197,"Hacker-Pschorr Münchner Hell 20x0,5l",15.99,1.6
+198,"Carlsberg Beer 6x0,33l",4.89,2.47
+199,Faxe Premium Quality Lager Beer 1l,1.49,0.0
+200,"Carlsberg Beer 20x0,5l",16.49,1.65
+201,"Wirtsmadl Bayrisch Hell 1516 20x0,5l",13.79,1.38
+202,"Mönchshof Lager 20x0,5l",14.99,1.5
+203,"Paulaner Original Münchner Hell 6x0,33l",4.49,2.27
+204,"Gold Ochsen Original 20x0,5l",15.99,1.6
+205,"Paulaner Münchner hell 0,5l",0.99,1.98
+206,"Krombacher Pils alkoholfrei 6x0,33l",4.29,2.17
+207,"Flensburger Edles Helles 20x0,33l",12.99,1.97
+208,"Benediktiner Weissbier Alkoholfrei 6x0,5l",5.99,2.0
+209,"Reichenberger Helles 0,5l",0.35,0.7
+210,"Löwenbräu Original Dose 0,5l",0.75,1.5
+211,"Paulaner Hefe-Weißbier alkoholfrei 6x0,33l",4.79,2.42
+212,"König Ludwig Hell 0,5L",1.05,2.1
+213,"Krombacher Pils alkoholfrei 20x0,5l",14.79,1.48
+214,"Franziskaner Weißbier Alkoholfrei 6x0,33l",4.49,2.27
+215,"Paulaner Hefe-Weißbier alkoholfrei 20x0,5l",16.79,1.68
+216,"Andechser Spezial Hell 0,5l",0.95,1.9
+217,"Krombacher Pils alkoholfrei 6x0,33l",4.29,2.17
+218,"Mönchshof Bayrisch Hell 4x0,5l",3.49,1.75
+219,"Sol Mexican Beer 4x0,33l",4.99,3.78
+220,"Brlo Helles Craftbeer 0,33l",1.99,6.03
+221,"Erdinger Weißbier Alkoholfrei 11x0,5l",9.49,1.73
+222,"Reichenberger Helles 20x0,5l",5.99,0.6
+223,"Krombacher Hell 6x0,33l",4.29,2.17
+224,"Krombacher Pils alkoholfrei 24x0,33l",14.49,1.83
+225,"Krombacher Pils alkoholfrei 11x0,5l",8.99,1.63
+226,"Erdinger Weißbier Alkoholfrei 6x0,33l",3.79,1.91
+227,"Schimpfle Lösch-Zwerg würzig 20x0,33l",12.99,1.97
+228,"Carlsberg Beer 11x0,5l",9.99,1.82
+229,"Original Oettinger Weißbier alkoholfrei 20x0,5l",8.99,0.9
+230,"Tucher Urbräu hell 20x0,5l",12.59,1.26
+231,"Schwaben Bräu Das Helle 20x0,5l",15.99,1.6
+232,"Krombacher Pils 0,0% 11x0,5l",8.99,1.63
+233,"Franziskaner Weißbier Alkoholfrei 20x0,5l",16.19,1.62
+234,"Original Oettinger Alkoholfrei 20x0,5l",7.49,0.75
+235,"Franziskaner Weißbier Alkoholfrei 11x0,5l",9.99,1.82
+236,"Warsteiner Alkoholfrei 6x0,33l",3.79,1.91
+237,"Veltins Pils Alkoholfrei 6x0,33l",4.29,2.17
+238,"Störtebeker Bio Baltik-Lager 0,5l",1.09,2.18
+239,"Franziskaner Weißbier Alkoholfrei Blutorange 6x0,33l",4.49,2.27
+240,"Bitburger 0,0% Alkoholfrei 6x0,33l",4.29,2.17
+241,"Clausthaler Extra Herb Premium Alkoholfrei 6x0,33l",3.99,2.02
+242,"Heineken alkoholfrei 6x0,33l",4.99,2.52
+243,"Flensburger Frei Alkoholfrei 6x0,33l",4.29,2.17
+244,"Beck's Blue alkoholfrei 6x0,33l",4.29,2.17
+245,"Jever Fun alkoholfrei 6x0,33l",3.89,1.96
+246,"Licher Isotonisch alkoholfreies Pilsner 6x0,33l",3.99,2.02
+247,"Beck's Blue alkoholfrei 24x0,33l",16.79,2.12
+248,"Jever Fun alkoholfrei 20x0,5l",14.99,1.5
+249,"Flensburger Alkoholfrei 20x0,33l",12.99,1.97
+250,"Neumarkter Lammsbräu Öko Alkoholfrei 10x0,33l",8.99,2.72
+251,"Bitburger 0,0% Alkoholfrei 20x0,5l",14.69,1.47
+252,"Jever Fun alkoholfrei 24x0,33l",14.79,1.87
+253,"König Pilsener alkoholfrei 6x0,33l",3.99,2.02
+254,"Beck's Blue alkoholfrei 20x0,5l",16.49,1.65
+255,"Mönchshof Alkoholfrei & Naturtrüb 20x0,5l",14.99,1.5
+256,"Krombacher Weizen alkoholfrei 6x0,33l",4.29,2.17
+257,"Brlo Naked 0,33l",1.99,6.03
+258,"Warsteiner Alkoholfrei Herb 6x0,33l",3.79,1.91
+259,"Reissdorf Alkoholfrei 6x0,33l",3.99,2.02
+260,"Clausthaler Classic Premium Alkoholfrei 6x0,33l",3.99,2.02
+261,"Paulaner Münchner Hell Alkoholfrei 0,5l",0.99,1.98
+262,"Krombacher Weizen alkoholfrei 11x0,5l",9.29,1.69
+263,"Jever Fun alkoholfrei 11x0,5l",8.49,1.54
+264,"Gaffel Kölsch Frei 6x0,33l",3.99,2.02
+265,"Löwenbräu Alkoholfrei 20x0,5l",15.29,1.53
+266,"Clausthaler Classic Premium Alkoholfrei 0,5l",0.79,1.58
+267,"Clausthaler Extra Herb Premium Alkoholfrei 20x0,5l",13.49,1.35
+268,"Paulaner Oktoberfest Bier 0,5l",0.89,1.78
+269,"Clausthaler Classic Premium Alkoholfrei 20x0,5l",13.49,1.35
+270,"Rothaus Zäpfle Alkoholfrei 6x0,33l",5.29,2.67
+271,"Kapuziner Alkoholfrei 20x0,5l",11.99,1.2
+272,"Rothaus Zäpfle Alkoholfrei 10x0,33l",7.99,2.42
+273,"Krombacher Weizen alkoholfrei 11x0,5l",8.99,1.63
+274,"Leffe Brune 0,33l",1.49,4.52
+275,"Mönchshof Kellerbier 4x0,5l",3.49,1.75
+276,"Zirndorfer Landbier Hell 20x0,5l",13.99,1.4
+277,"Wernesgrüner Alkoholfrei 20x0,5l",14.8,1.48
+278,"Leikeim Landbier 20x0,5l",14.99,1.5
+279,"Aktien Zwick'l Kellerbier 20x0,5l",15.99,1.6
+280,"Schwaben Bräu Das Echte Märzen 20x0,5l",15.99,1.6
+281,"Mönchshof Landbier 20x0,5l",14.99,1.5
+282,"Original Oettinger Kellerbier 20x0,5l",8.99,0.9
+283,"Grevensteiner Landbier 6x0,33l",4.99,2.52
+284,"Bilger Stümple 4x0,33l",2.49,1.89
+285,"Rügener Insel-Brauerei Übersee Hopfen Australien 0,33l",2.99,9.06
+286,"Mönchshof Weihnachtsbier 20x0,5l",14.49,1.45
+287,"Krombacher Naturtrübes Kellerbier 6x0,33l",4.29,2.17
+288,"Riegele Augustus 8 0,33l",2.99,9.06
+289,"La Trappe Tripel 0,33l",1.99,6.03
+290,"Heineken 20x0,4l",16.99,2.12
+291,"Köstritzer Kellerbier 20x0,5l",14.79,1.48
+292,"Theodor König Zwickl 6x0,33l",3.99,2.02
+293,"Crew Republic Drunken Sailor 0,33l",1.99,6.03
+294,"Flensburger Dunkel 20x0,33l",12.99,1.97
+295,"Welde Badisch Gose 0,33l",1.99,6.03
+296,"Rothaus-Schwarzwald-Maidle 6x0,33l",5.29,2.67
+297,"Beck's 1873 Pils 4x0,33l",4.29,3.25
+298,"La Trappe Blonde 0,33l",1.79,5.42
+299,"Heineken 0,33l",0.99,3.0
+300,Lindemans Kriek 250ml,1.49,0.6
+301,"Mönchshof Manufaktur Märzen 9x0,5l",7.99,1.78
+302,"Welde Bourbon Barrel Bock 0,33l",2.49,7.55
+303,"Grimbergen Double 4x0,33l",4.99,3.78
+304,"Ratsherrn Rotbier 0,33l",1.49,4.52
+305,"Paulaner Oktoberfest Bier 20x0,5l",16.99,1.7
+306,"Karamalz 6x0,33l",3.49,1.76
+307,"Karamalz Fresh Lemon 6x0,33l",3.29,1.66
+308,"Riegele Amaris 50 0,33l",2.99,9.06
+309,"5,0 Original Export 0,5l",0.49,0.98
+310,"Mönchshof Kellerbier 20x0,5l",14.99,1.5
+311,"Beck's Amber Lager 4x0,33l",4.29,3.25
+312,"Houblon Chouffe IPA Tripel 0,33l",1.99,6.03
+313,"Karamalz 6x0,75l",6.54,1.45
+314,"Duvel 0,33l",1.79,5.42
+315,"Augustiner Edelstoff 20x0,5l",19.99,2.0
+316,"Karamalz 20x0,5l",10.99,1.1
+317,"Riegele Noctus 100 0,33l",2.99,9.06
+318,"Kandi Malz 6x0,33l",3.29,1.66
+319,"Sternburg Export 20x0,5l",7.89,0.79
+320,"Original Oettinger Malz 20x0,5l",7.49,0.75
+321,"Riegele Auris 19 0,33l",2.99,9.06
+322,"Leikeim Kellerbier 20x0,5l",14.99,1.5
+323,"Hoegaarden Wit Blanche 0,25l",1.49,0.6
+324,"Vitamalz 0,33l",0.69,2.09
+325,"Crew Republic Foundation 11 Pale Ale 0,33l",1.99,6.03
+326,"Binding Export 0,5l",0.69,1.38
+327,"Karamalz 0,33l",0.59,1.79
+328,"Vitamalz 24x0,33l",10.99,1.39
+329,"Gaffel Kölsch 6x0,33l",3.99,2.02
+330,"Alpirsbacher Klosterbräu Spezial 6x0,5l",6.49,2.16
+331,"Original Oettinger Export 20x0,5l",7.49,0.75
+332,"Reissdorf Kölsch 24x0,33l",14.99,1.89
+333,"Paderborner Export 20x0,5l",6.99,0.7
+334,"Gaffel Kölsch 20x0,5l",14.19,1.42
+335,"Gaffel Kölsch 24x0,33l",14.49,1.83
+336,"Früh Kölsch 6x0,33l",4.29,2.17
+337,"Früh Kölsch 0,5l",0.89,1.78
+338,"Sternburg Export 0,5l",0.49,0.98
+339,"Original Oettinger Urtyp 20x0,5l",8.99,0.9
+340,"Rothaus Märzen-Export Eiszäpfle 6x0,33l",5.29,2.67
+341,"Reissdorf Kölsch 6x0,33l",3.99,2.02
+342,"Kloster Scheyern Gold Hell 20x0,5l",15.49,1.55
+343,"Altenmünster Urig Würzig 16x0,5l",12.99,1.62
+344,"Hasseröder Export 20x0,5l",8.99,0.9
+345,"Markgrafen Export 20x0,5l",6.49,0.65
+346,"Früh Kölsch 20x0,5l",13.49,1.35
+347,"Mühlen Kölsch 20x0,5l",15.99,1.6
+348,"Gilden Kölsch 20x0,5l",11.99,1.2
+349,"Gaffel Kölsch 0,5l",0.89,1.78
+350,"Peters Kölsch 20x0,33l",14.49,2.2
+351,"Früh Kölsch 24x0,33l",13.49,1.7
+352,"Schneider Weisse Aventinus Eisbock 0,33l",1.99,6.03
+353,Gaffel Kölsch Fass 5l,11.79,2.36
+354,"Gilden Kölsch 0,5l",0.65,1.3
+355,"Paulaner Salvator 20x0,5l",18.49,1.85
+356,"Reissdorf Kölsch 20x0,5l",14.49,1.45
+357,"Lausitzer Porter 20x0,5l",12.49,1.25
+358,"Reissdorf Kölsch 0,5l",0.99,1.98
+359,Früh Kölsch Fass 5l,12.99,2.6
+360,"Paulaner Weißbier Zitrone naturtrüb 6x0,33l",4.79,2.42
+361,Reissdorf Kölsch Fass 5l,12.99,2.6
+362,"Carlsberg Elephant Beer 0,5l",0.99,1.98
+363,"Mixery Bier+Cola+X 0,5l",0.95,1.9
+364,"Mühlen Kölsch 6x0,33l",4.99,2.52
+365,"Krombacher Radler 6x0,33l",4.29,2.17
+366,"Mixery Bier+Cola+X 20x0,5l",15.49,1.55
+367,"Mixery Bier+Cherry+X 6x0,33l",4.29,2.17
+368,"5,0 Original Citrus-Bier 0,5l",0.65,1.3
+369,"Desperados Original 4x0,33l",5.99,4.54
+370,"Carlsberg Elephant Beer 6x0,33l",4.79,2.42
+371,"Mixery Bier+Cola+X 6x0,33l",4.29,2.17
+372,"Maisel & Friends Marc's Chocolate Bock 0,75l",3.99,5.32
+373,"Gösser Naturradler 20x0,5l",15.99,1.6
+374,"Gösser Natur Radler 0,5l",0.99,1.98
+375,"Schwarzbräu Aged Bock 0,33l",2.79,8.45
+376,"Schöfferhofer Grapefruit 0,5l",0.89,1.78
+377,"Veltins V+ Energy 6x0,33l",4.29,2.17
+378,"Schöfferhofer Grapefruit 6x0,33l",3.79,1.91
+379,"Warsteiner Radler Zitrone 6x0,33l",3.79,1.91
+380,"Beck's Green Lemon 6x0,33l",4.29,2.17
+381,"Astra Kiezmische 6x0,33l",3.99,2.02
+382,"2,5 Original Lemon 0,5l",0.49,0.98
+383,"Mönchshof Natur Radler 20x0,5l",14.99,1.5
+384,"Beck's Red Holunder 6x0,33l",4.29,2.17
+385,"Veltins V+ Curuba 0,5l",0.79,1.58
+386,"Früh Kölsch Radler 6x0,33l",4.29,2.17
+387,"Mixery Nastrov Flavour Iced Blue 0,5l",0.95,1.9
+388,"Beck's Ice Lime & Mint 6x0,33l",4.29,2.17
+389,"Salitos Tequila 0,5l",1.49,2.98
+390,"Berliner Kindl Weisse Himbeere 6x0,33l",4.49,2.27
+391,"Berliner Kindl Weisse Waldmeister 6x0,33l",4.49,2.27
+392,"Beck's Green Lemon 24x0,33l",10.99,1.39
+393,"Astra Rakete 6x0,33l",4.99,2.52
+394,"Original Oettinger Weizen & Grapefruit 24x0,33l",10.99,1.39
+395,"Bitburger Radler 6x0,33l",4.29,2.17
+396,"Veltins V+ Curuba 6x0,33l",4.29,2.17
+397,"Lübzer Grapefruit 0,5l",0.79,1.58
+398,"Bitburger Radler 0,5l",0.85,1.7
+399,"Veltins V+ Berry-X 6x0,33l",4.29,2.17
+400,"Astra Kiezmische 0,33l",0.59,1.79
+401,"Krombacher Radler naturtrüb 6x0,33l",4.29,2.17
+402,"Krombacher Radler 24x0,33l",14.49,1.83
+403,"Schimpfle Löschzwerg Cola-Weizen 0,33l",0.85,2.58
+404,"Lübzer Grapefruit 6x0,33l",4.29,2.17
+405,"Veltins V+ Lemon 6x0,33l",4.29,2.17
+406,"Schöfferhofer Zitrone 6x0,33l",3.79,1.91
+407,"Krombacher Radler 0,5l",0.79,1.58
+408,"Bitburger Radler 20x0,33l",11.99,1.82
+409,"Salitos Tequila 4x0,33l",4.99,3.78
+410,"Krombacher Radler 11x0,5l",8.99,1.63
+411,"Lübzer Grapefruit 20x0,5l",10.49,1.05
+412,"Astra Rakete Dose 0,33l",0.89,2.7
+413,"Mixery Flavour Iced Blue 6x0,33l",4.29,2.17
+414,"Beck's Green Lemon 0,5l",0.89,1.78
+415,"Flensburger Radler 20x0,33l",13.49,2.04
+416,"Eichbaum Naturradler 0,33l",0.69,2.09
+417,"Schöfferhofer Kaktusfeige 6x0,33l",3.79,1.91
+418,"Mixery Ultimate Energy 6x0,33l",4.99,2.52
+419,"Eichbaum Kurpfälzer NaturRadler 6x0,33l",3.99,2.02
+420,"Welde Remix Natur Radler 6x0,33l",4.99,2.52
+421,"Beck's Lime 6x0,33l",4.29,2.17
+422,"Schöfferhofer Granatapfel + Guarana 6x0,33l",3.79,1.91
+423,"Salitos Ice 4x0,33l",4.99,3.78
+424,"Grevensteiner Ur-Radler 6x0,33l",4.99,2.52
+425,"Störtebeker Arktik-Ale 0,33l",2.99,9.06
+426,"Veltins V+ Grapefruit 6x0,33l",4.29,2.17
+427,"Störtebeker Atlantik-Ale 0,5l",1.09,2.18
+428,"Original Oettinger Radler 20x0,5l",7.79,0.78
+429,"Veltins V+ Energy 0,5l",0.79,1.58
+430,"Rothaus Zäpfle Radler 6x0,33l",5.29,2.67
+431,"Beck's Red Ale 4x0,33l",4.29,3.25
+432,"Mönchshof Natur-Radler 4x0,5l",3.49,1.75
+433,"Ratsherrn Coast Guard Westküsten IPA 0,33l",1.99,6.03
+434,"La Chouffe Golden Ale 0,33l",1.79,5.42
+435,"Riegele Ator 20 0,33l",2.99,9.06
+436,"Veltins Radler 6x0,33l",4.29,2.17
+437,"Maisel & Friends Jeff's Bavarian Ale 0,75l",3.99,5.32
+438,"Ratsherrn Pale Ale 0,33l",1.65,5.0
+439,"Beck's Pale Ale 4x0,33l",4.29,3.25
+440,"Störtebeker Atlantik Ale 20x0,5l",18.99,1.9
+441,"Warsteiner Lemon Premium Mix 6x0,33l",3.99,2.02
+442,"Störtebeker Scotch-Ale 0,5l",1.99,3.98
+443,"Rügener Inselbrauerei Baltic Ale 0,33l",2.99,9.06
+444,"Hopfenstopfer Incredible Pale Ale 0,33l",1.49,4.52
+445,"Maisel & Friends Pale Ale 6x0,33l",5.99,3.03
+446,"Leffe Blonde 0,33l",1.49,4.52
+447,"Rügener Inselbrauerei Baltic Dubbel 0,33l",2.99,9.06
+448,"Maisel & Friends Pale Ale 0,33l",1.49,4.52
+449,"Guinness Extra Stout 6x0,33l",5.49,2.77
+450,"Brooklyn East IPA 0,33l",1.99,6.03
+451,"McGargles Francis' Big Banging IPA 0,33l",1.99,6.03
+452,"Hopfenstopfer Citra Ale 0,33l",1.49,4.52
+453,"Kilkenny Ale 6x0,33l",5.49,2.77
+454,"Maisel & Friends Stefan's Indian Ale 0,75l",3.99,5.32
+455,"Brlo Craft Beer German IPA 0,33l",1.99,6.03
+456,"Riedenburger Dolden Dark 0,33l",1.99,6.03
+457,"Riedenburger Dolden Sud IPA 0,33l",1.99,6.03
+458,"La Trappe Quadrupel 0,33l",1.99,6.03
+459,"Ratsherrn Matrosenschluck Oat 0,33l",1.79,5.42
+460,"Gaffels Fassbrause Zitrone 24x0,33l",14.49,1.83
+461,"La Trappe Dubbel 0,33l",1.79,5.42
+462,"Schöfferhofer Grapefruit alkoholfrei 6x0,33l",3.79,1.91
+463,"Franziskaner Weißbier Alkoholfrei Holunder 6x0,33l",4.49,2.27
+464,"Rügener Insel-Brauerei Baltic Stout 0,33l",2.99,9.06
+465,"Störtebeker Nordik-Porter 0,33l",2.99,9.06
+466,"Liefmans Fruitesse 0,25l",1.49,0.6
+467,"Paulaner Weißbier Zitrone alkoholfrei 6x0,33l",4.79,2.42
+468,"Hanscraft Backbone Splitter 0,33l",2.49,7.55
+469,"Krombacher's Fassbrause Rhabarber 6x0,33l",4.29,2.17
+470,"Franziskaner Weißbier Alkoholfrei Zitrone 6x0,33l",4.49,2.27
+471,"McGargles Uncle Jim's Stout 0,33l",1.99,6.03
+472,"Krombacher Radler alkoholfrei 6x0,33l",4.29,2.17
+473,"Krombacher Radler alkoholfrei 11x0,5l",8.99,1.63
+474,"Paulaner Weißbier Zitrone alkoholfrei 20x0,5l",16.79,1.68
+475,"Krombacher's Fassbrause Zitrone 6x0,33l",4.29,2.17
+476,"Bitburger Fassbrause Rhabarber 6x0,33l",4.29,2.17
+477,"Gaffels Fassbrause Orange 6x0,33l",3.79,1.91
+478,"Beck's Green Lemon Zero 6x0,33l",4.29,2.17
+479,"Erdinger alkoholfrei Zitrone 6x0,33l",3.79,1.91
+480,"Gaffels Fassbrause Zitrone 6x0,33l",3.99,2.02
+481,"Propeller Nachtflug 0,33l",2.29,6.94
+482,"Bitburger 0,0% Radler Alkoholfrei 0,5l",0.85,1.7
+483,"Clausthaler Radler Alkoholfrei 6x0,33l",3.99,2.02
+484,"Veltins Fassbrause Holunder alkoholfrei 6x0,33l",4.29,2.17
+485,"Krombacher Weizen Zitrone 6x0,33l",4.29,2.17
+486,"Krombacher's Fassbrause Holunder 6x0,33l",4.29,2.17
+487,"Krombacher Radler alkoholfrei 24x0,33l",14.49,1.83
+488,"Gaffels Fassbrause Zitrone 0,5l",0.89,1.78
+489,"Bitburger 0,0% Radler Alkoholfrei 6x0,33l",4.29,2.17
+490,"Krombacher Fassbrause Schwarze Johannisbeere 6x0,33l",4.29,2.17
+491,"Gaffels Fassbrause Orange 24x0,33l",13.99,1.77
+492,"Früh Frühsport 6x0,33l",4.29,2.17
+493,"Bitburger Fassbrause Waldmeister 6x0,33l",4.29,2.17
+494,"Krombacher Fassbrause Cola Orange 6x0,33l",4.29,2.17
+495,"Original Oettinger Fassbrause Mango 6x0,33l",2.79,1.41
+496,"Original Oettinger Fassbrause Zitrone 6x0,33l",2.79,1.41
+497,"Fürstenberg Radler Zitrus alkoholfrei 6x0,33l",3.99,2.02
+498,"Veltins Fassbrause Apfel-Kräuter alkoholfrei 6x0,33l",4.29,2.17
+499,"Bitburger 0,0% Grapefruit Alkoholfrei 6x0,33l",4.29,2.17
+500,"Veltins Radler alkoholfrei 6x0,33l",4.29,2.17
+501,"Warsteiner Radler Alkoholfrei 6x0,33l",3.79,1.91
